@@ -1,0 +1,10 @@
+【潜水】ャT Qャ(tnqi@vip.qq.com)  20:37:31
+https://www.youtube.com/watch?v=7zsJzWYugQw
+官网：https://forums.guru3d.com/threads/amernime-zone-amd-software-adrenalin-pro-driver-release-discovery-22-12-2-whql.436611/
+下载站：https://sourceforge.net/projects/amernimezone/files/
+本视频对应的老GCN架构下载地址（最新驱动22.10.1）：https://sourceforge.net/projects/amernimezone/files/Release%20Legacy%20GCN%20%28Pre-Polaris%29/V7-22.10.1-GCN-UMD-WHQL-Nemesis-NimeZ-DCH.7z/download
+此驱动支持的显卡包含所有Legacy GCN显卡（HD7000系列-R9系列）
+
+【潜水】ャT Qャ(tnqi@vip.qq.com)  20:37:41
+老R9 R7 可以用最新版驱动
+

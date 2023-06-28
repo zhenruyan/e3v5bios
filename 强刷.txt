@@ -1,0 +1,1 @@
+nvflash64.exe -6 1.rom

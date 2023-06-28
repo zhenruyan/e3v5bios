@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------------------------------------------------------------
+H310M GAMING ARCTIC (MS-7B28) V17.B BIOS Release
+-------------------------------------------------------------------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+-  Windows 11 Supported.
+-  Update CPU Micro code.
+-  Change the default setting of Secure Boot.
+-  Improve Intel DG2 VGA Card compatibility.
+
+3. 2022/10/25
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+-  支援Windows 11.
+-  更新 CPU Micro code.
+-  Secure Boot設為預設.
+-  改善 Intel DG2 VGA Card 相容性.
+
+C. 更新日期: 公元2022年10月25號
